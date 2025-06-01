@@ -1,2 +1,2 @@
-# Faktöriyel Hesaplayıcı
+# Factorial Calculater
 Simple ConsoleApp Calculating Factorial
