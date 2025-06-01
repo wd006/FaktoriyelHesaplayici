@@ -1,2 +1,2 @@
 # Faktöriyel Hesaplayıcı
-Faktöriyel Değeri Bulan Basit ConsoleApp
+Simple ConsoleApp Calculating Factorial
