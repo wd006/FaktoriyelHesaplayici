@@ -1,1 +1,2 @@
-# FaktoriyelHesaplayici
+# Faktöriyel Hesaplayıcı
+Faktöriyel Değeri Bulan Basit ConsoleApp
